@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e0be48a-64b9-4a86-a253-4f35658a26a7/deploy-status)](https://app.netlify.com/sites/riicc/deploys)
+
+
 # 2021 CEP WA2 Proposal #
 
 **By Kang Yiming** 
