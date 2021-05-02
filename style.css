@@ -11,8 +11,10 @@ body {
   padding-right: 10%;
   padding-bottom: 5%;
   padding-left: 10%;
-  font-size: large
+  font-size: large;
+  
 }
+
 
 .card-img {
   width: 100%;
