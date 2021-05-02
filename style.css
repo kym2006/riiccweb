@@ -7,10 +7,10 @@ body {
   }
   
 #desc {
-  padding-top: 50px;
-  padding-right: 200px;
-  padding-bottom: 50px;
-  padding-left: 200px;
+  padding-top: 5%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  padding-left: 10%;
   font-size: large
 }
 
