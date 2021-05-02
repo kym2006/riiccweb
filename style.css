@@ -21,7 +21,8 @@ body {
 
 
 .searchbar {
-  margin-top: 2%;
+  border-radius:10px;
+  margin-top: 1%;
   margin-left: 6%;
   padding-left: 0%;
   width:88%;
