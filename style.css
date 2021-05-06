@@ -15,6 +15,9 @@ body {
   
 }
 
+li {
+  list-style-type: none;
+}
 
 .card-img {
   width: 100%;
