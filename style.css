@@ -26,7 +26,8 @@ li {
 
 
 .searchbar {
-  border-radius:10px;
+  border-radius:0px;
+  border-width:0px;
   margin-top: 1%;
   margin-left: 6%;
   padding-left: 0%;
