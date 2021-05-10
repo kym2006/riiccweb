@@ -7,13 +7,24 @@ body {
   }
   
 #desc {
-  padding-top: 5%;
   padding-right: 10%;
-  padding-bottom: 5%;
   padding-left: 10%;
   font-size: large;
-  
+  color: white;
 }
+
+#particles-js {
+      position: absolute;
+      width: 100%;
+      
+      z-index: -1;
+      background-color: #2C2F33;
+      background-image: none;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50% 50%;
+}
+
 
 li {
   list-style-type: none;
@@ -24,6 +35,16 @@ li {
   height: 100%;
 }
 
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-color: red;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 30%;
+}
 
 .searchbar {
   border-radius:0px;
