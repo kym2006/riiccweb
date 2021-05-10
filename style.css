@@ -12,6 +12,12 @@ body {
   font-size: large;
   color: white;
 }
+#desch1 {
+  padding-right: 10%;
+  padding-left: 10%;
+  font-size: xx-large;
+  color: white;
+}
 
 #particles-js {
       position: absolute;
@@ -47,6 +53,8 @@ li {
 }
 
 .searchbar {
+  outline: none;
+  size: 1000%;
   border-radius:0px;
   border-width:0px;
   margin-top: 1%;
