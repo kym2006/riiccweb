@@ -78,7 +78,7 @@ function updateSearch() {
 
         }
     }
-
+    
     for(let i = 0; i < things.childNodes.length; i++) {
         let card = things.childNodes[i];
         if(card.nodeName=="DIV") {
